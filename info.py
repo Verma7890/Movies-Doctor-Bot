@@ -71,6 +71,6 @@ if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
 #Sample
-SHORTNER_SITE = ""
-SHORTNER_API = ""
+SHORTNER_SITE = "moneykamalo.com"
+SHORTNER_API = "ae9d065c3444c76ec0aeaf326683f443e48b2122"
 
